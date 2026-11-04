@@ -8,10 +8,8 @@ layer parenting becomes the hierarchy, each comp becomes an AnimationClip.
 Package Manager > **+** > **Add package from git URL…**
 
 ```
-https://github.com/gonzamoiguer/AE-Anim-to-Unity
+https://github.com/gonzamoiguer/AE-Anim-to-Unity.git
 ```
-
-Pin a release with `#v1.0.0` at the end of the URL.
 
 ## Install (After Effects)
 

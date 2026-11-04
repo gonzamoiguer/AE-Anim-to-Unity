@@ -1,8 +1,8 @@
 {
-  "name": "com.gonz.ae-to-unity",
+  "name": "com.gonzamoiguer.ae-anim-to-unity",
   "version": "1.0.0",
   "displayName": "After Effects to Unity",
   "description": "Imports After Effects cut-out animations as a sprite rig prefab with AnimationClips. Export from AE with the included ExportForUnity.jsx panel (Tools > After Effects to Unity > Show After Effects Script).",
   "unity": "2021.3",
-  "author": { "name": "Gonz" }
+  "author": { "name": "Gonzalo Moiguer" }
 }
